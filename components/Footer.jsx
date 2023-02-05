@@ -8,7 +8,7 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-    © 2022 dreal_estate, Inc.
+    © 2022 dreal-house, Inc.
   </Box>
 );
 
